@@ -14,7 +14,7 @@ print(miau)
 print(miau)
 print(miau)
 print(miau)
-print(miau)
+print(miйцккпцйau)
 print(miau)
 print(miau)
 
