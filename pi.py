@@ -1,1 +1,2 @@
 print('БУЛКА')
+print('bulka')
